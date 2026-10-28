@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.0.0",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-10-28",
+  "files": {
+    "wanfa.js": {
+      "bytes": 237566,
+      "sha256": "1b519a16ea8db91dfbfe382a96989aa4a85b4a0652c5c205bb432f953fc3b484",
+      "gitBlob": "f0363969c792105e9f72ce05fc32dc3313c07fb1"
+    },
+    "wanfa-city.png": {
+      "bytes": 3173763,
+      "sha256": "1ce75a646f278d2ad55b44740488240a98542240bdee292428f8549b97dd8e9e",
+      "gitBlob": "8c1ce72d306a0c7c3c1aa15170b87c4da24c1886"
+    }
+  },
+  "offlineScriptSha256": "1e13691bd5d6aaf48305f19750f3539274a782f0e4b3aae24824e4918abcef4f",
+  "description": "古雅机关令；原木/玄青双主题；阅读与交互修订；焦点、选区、滚动与操作位置保留；按需出宗联动；思考假标签过滤。"
+}

@@ -1,0 +1,21 @@
+{
+  "version": "1.1.0",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.1.0",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-11-05",
+  "files": {
+    "wanfa.js": {
+      "bytes": 314460,
+      "sha256": "31899797641c0a938d5019bdd233327afc8dd635fef107097fd7adef139253a4",
+      "gitBlob": "4430fb9ce77d4cf722924180fe73be9e468f2132"
+    },
+    "wanfa-city.png": {
+      "bytes": 3173763,
+      "sha256": "1ce75a646f278d2ad55b44740488240a98542240bdee292428f8549b97dd8e9e",
+      "gitBlob": "8c1ce72d306a0c7c3c1aa15170b87c4da24c1886"
+    }
+  },
+  "offlineScriptSha256": "356f33bd8962cb5061c5f49d3385d2e40e24a12790a1129671ad91bc390045a9",
+  "description": "默认玄青月亮主题；原木切换；木刻云纹；真实当前经历；功德堂委托详情与接取；独立仙城入口；最新版117条世界书。"
+}

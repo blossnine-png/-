@@ -1,0 +1,21 @@
+{
+  "version": "1.1.1",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.1.1",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-11-08",
+  "files": {
+    "wanfa.js": {
+      "bytes": 321705,
+      "sha256": "2c3e66220eea34dcf74ca04876df3e91c975b209188122ec96a652fac646e65b",
+      "gitBlob": "fa7c6f7f7611355f8f227eb860b11c95cda16c96"
+    },
+    "wanfa-city.png": {
+      "bytes": 3173763,
+      "sha256": "1ce75a646f278d2ad55b44740488240a98542240bdee292428f8549b97dd8e9e",
+      "gitBlob": "8c1ce72d306a0c7c3c1aa15170b87c4da24c1886"
+    }
+  },
+  "offlineScriptSha256": "abaae156f74923e38f477f5d015a51877e83d18476c6670a5a3e91983b5e1786",
+  "description": "页首变量更新状态与重跑；修复圣位晋升变量和借阅登记；默认玄青月亮主题；匹配万法宗拓展117条。"
+}

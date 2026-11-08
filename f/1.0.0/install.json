@@ -1,0 +1,17 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "绯红府邸 · 炼偶室与人偶名册",
+  "id": "ddccc22e-bd22-4660-8088-fa62003ad216",
+  "content": "import 'https://cdn.jsdelivr.net/gh/blossnine-png/-@main/f/1.0.0/f.js';",
+  "info": "绯红府邸前端 1.0.0。配合《道渊》v5.5.4、绯红宅邸拓展与原卡 MVU。",
+  "button": {
+    "enabled": false,
+    "buttons": []
+  },
+  "data": {},
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}

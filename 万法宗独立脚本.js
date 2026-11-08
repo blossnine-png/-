@@ -1,7 +1,7 @@
 /* 万法宗 · 万法机关令。固定版本加载器；与完整版使用同一脚本ID。 */
 (async()=>{
   'use strict';
-  const release={"version":"1.1.0","commit":"0d79f17f8c3a9b3db721b58be81377260978073c","repo":"blossnine-png/-","path":"wanfa/1.1.0","urls":["https://cdn.jsdelivr.net/gh/blossnine-png/-@0d79f17f8c3a9b3db721b58be81377260978073c/wanfa/1.1.0/wanfa.js","https://gcore.jsdelivr.net/gh/blossnine-png/-@0d79f17f8c3a9b3db721b58be81377260978073c/wanfa/1.1.0/wanfa.js","https://raw.githubusercontent.com/blossnine-png/-/0d79f17f8c3a9b3db721b58be81377260978073c/wanfa/1.1.0/wanfa.js"],"sha256":"31899797641c0a938d5019bdd233327afc8dd635fef107097fd7adef139253a4","imageSha256":"1ce75a646f278d2ad55b44740488240a98542240bdee292428f8549b97dd8e9e"},host=window.parent||window,slot='__wanfa_hosted_loading';
+  const release={"version":"1.1.1","commit":"851dd440c00878fbfdc7ca4e14d8efae3034b2ea","repo":"blossnine-png/-","path":"wanfa/1.1.1","urls":["https://cdn.jsdelivr.net/gh/blossnine-png/-@851dd440c00878fbfdc7ca4e14d8efae3034b2ea/wanfa/1.1.1/wanfa.js","https://gcore.jsdelivr.net/gh/blossnine-png/-@851dd440c00878fbfdc7ca4e14d8efae3034b2ea/wanfa/1.1.1/wanfa.js","https://raw.githubusercontent.com/blossnine-png/-/851dd440c00878fbfdc7ca4e14d8efae3034b2ea/wanfa/1.1.1/wanfa.js"],"sha256":"2c3e66220eea34dcf74ca04876df3e91c975b209188122ec96a652fac646e65b","imageSha256":"1ce75a646f278d2ad55b44740488240a98542240bdee292428f8549b97dd8e9e"},host=window.parent||window,slot='__wanfa_hosted_loading';
   if(host[slot]?.active){console.info('[万法宗] 托管模块正在加载，已忽略重复启动。');return;}
   const job={active:true};host[slot]=job;
   let canceled=false,objectUrl;

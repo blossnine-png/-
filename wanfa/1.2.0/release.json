@@ -1,0 +1,27 @@
+{
+  "version": "1.2.0",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.2.0",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-11-13",
+  "worldbookSha256": "ff5584b680224cc4995ab3882af323d4fc79204ffda768529b0c46a7cf8e0382",
+  "worldbookEntries": 138,
+  "files": {
+    "wanfa.js": {
+      "bytes": 361493,
+      "sha256": "bf7b0390fab65612441b65d2f8644bf0235c8e19933f819120e357b14ddbfe0f",
+      "gitBlob": "3f73071d948d476d414a79beb04846ffe7087df8"
+    },
+    "wanfa-city.png": {
+      "bytes": 2845472,
+      "sha256": "51ceec1ad356222942bbc7d6e9515df126008b85f5ae9c3a742151677f22ec78",
+      "gitBlob": "4ef1f2efb7283e08a43b6612c193b617b14e6573"
+    },
+    "wanfa-city-map.png": {
+      "bytes": 11459849,
+      "sha256": "7cb0cfefa004e9f2d8257c1a62faed0e5dbb966ed173222280272a339e9c0ad1",
+      "gitBlob": "3abd9a33108509e1ea148d6c7add82e66bc4658a"
+    }
+  },
+  "description": "仙城全景与俯视一览图、固定尺寸图框、岁序日期和功德堂文字排版修正。"
+}

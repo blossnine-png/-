@@ -1,0 +1,17 @@
+{
+  "type": "script",
+  "enabled": true,
+  "name": "伴生帝兵",
+  "id": "89f9a2f4-2efe-41a0-a8ea-ffdf8cda6de7",
+  "content": "import 'https://cdn.jsdelivr.net/gh/blossnine-png/-@main/db/1.0.0/d.js';",
+  "info": "",
+  "button": {
+    "enabled": false,
+    "buttons": []
+  },
+  "data": {},
+  "export_with": {
+    "data": true,
+    "button": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "dcd33ac2-6f5a-45ab-8c73-d722c61b10b9",
+  "scriptName": "伴生帝兵 · 事件",
+  "findRegex": "/\\[(DibingForm)\\]|\\[(DibingEvent|DibingState)\\][\\s\\S]*?\\[\\/\\2\\]/g",
+  "replaceString": "<div data-dibing-event=\"$1$2\"></div>",
+  "trimStrings": [],
+  "placement": [
+    2
+  ],
+  "disabled": false,
+  "markdownOnly": true,
+  "promptOnly": false,
+  "runOnEdit": true,
+  "substituteRegex": 0,
+  "minDepth": null,
+  "maxDepth": null
+}

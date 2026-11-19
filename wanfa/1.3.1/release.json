@@ -1,0 +1,32 @@
+{
+  "version": "1.3.1",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.3.1",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-11-20",
+  "worldbookSha256": "65c679d2e400a71a97945f09a8cfb1714cc4d53bc985254af48b3f8798a3cc54",
+  "worldbookEntries": 155,
+  "files": {
+    "wanfa.js": {
+      "bytes": 443191,
+      "sha256": "f94de9b4429db94745b7dc6de588cb040e488be978bd1a7b20592c54c5f95a85",
+      "gitBlob": "e5a1f9280e59df8659fac33fa70339c819cc6767"
+    },
+    "wanfa-city.png": {
+      "bytes": 2845472,
+      "sha256": "51ceec1ad356222942bbc7d6e9515df126008b85f5ae9c3a742151677f22ec78",
+      "gitBlob": "4ef1f2efb7283e08a43b6612c193b617b14e6573"
+    },
+    "wanfa-city-map.png": {
+      "bytes": 6149403,
+      "sha256": "52321d9f92c2574fbe7f9218aedf4024fada672f9becb70eee076c6aafc5557f",
+      "gitBlob": "346a45a917656f54a0944e1e31f8089955bd5b68"
+    },
+    "wanfa-city-header.png": {
+      "bytes": 1997314,
+      "sha256": "211dabfae9f08e03148bbb1b58d8f5e81c21ea38f666603853f4e5dfecc89b29",
+      "gitBlob": "a8a530e2f5f165459951d27173c73675b29a648a"
+    }
+  },
+  "description": "交流大比赛告与大会闭幕同步；更新宗门规则、会场简称及星轨参天会资格。"
+}

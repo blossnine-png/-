@@ -1,6 +1,6 @@
 /* 万法机关令托管入口 */
 (async()=>{
-  const release={"version":"1.3.1","commit":"85647adc2d87699eafdc5cdf675db6caa6591b19","bases":["https://cdn.jsdelivr.net/gh/blossnine-png/-@85647adc2d87699eafdc5cdf675db6caa6591b19/wanfa/1.3.1/","https://gcore.jsdelivr.net/gh/blossnine-png/-@85647adc2d87699eafdc5cdf675db6caa6591b19/wanfa/1.3.1/","https://raw.githubusercontent.com/blossnine-png/-/85647adc2d87699eafdc5cdf675db6caa6591b19/wanfa/1.3.1/"],"sha256":"f94de9b4429db94745b7dc6de588cb040e488be978bd1a7b20592c54c5f95a85"};
+  const release={"version":"1.3.1","commit":"85647adc2d87699eafdc5cdf675db6caa6591b19","bases":["https://cdn.jsdelivr.net/gh/blossnine-png/-@85647ad/wanfa/1.3.1/","https://gcore.jsdelivr.net/gh/blossnine-png/-@85647adc2d87699eafdc5cdf675db6caa6591b19/wanfa/1.3.1/","https://raw.githubusercontent.com/blossnine-png/-/85647adc2d87699eafdc5cdf675db6caa6591b19/wanfa/1.3.1/"],"sha256":"f94de9b4429db94745b7dc6de588cb040e488be978bd1a7b20592c54c5f95a85"};
   const host=window.parent||window;
   const slot='__wanfa_hosted_loading';
   if(host[slot]?.active)return;

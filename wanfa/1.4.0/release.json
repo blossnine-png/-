@@ -1,0 +1,37 @@
+{
+  "version": "1.4.0",
+  "repository": "blossnine-png/-",
+  "path": "wanfa/1.4.0",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100",
+  "buildDate": "2026-11-21",
+  "worldbookSha256": "c5b33c1885e39c20815a324f446f418808f2b9835630e3cb2d86db1ab334b7b2",
+  "worldbookEntries": 163,
+  "files": {
+    "wanfa.js": {
+      "bytes": 527046,
+      "sha256": "3dbf8f49045c7f996476ae094a8ff7728d7d7cdffffbb4fc322e1dca28d288aa",
+      "gitBlob": "281309334a6ffa5bd6bc636a75348859f170ad28"
+    },
+    "wanfa-city.png": {
+      "bytes": 2845472,
+      "sha256": "51ceec1ad356222942bbc7d6e9515df126008b85f5ae9c3a742151677f22ec78",
+      "gitBlob": "4ef1f2efb7283e08a43b6612c193b617b14e6573"
+    },
+    "wanfa-city-map.png": {
+      "bytes": 11491560,
+      "sha256": "9b86bef9b8ebb143fba7e47156b9c8f27931dcf6cd6b636eb16b76631ea474b9",
+      "gitBlob": "4a2a27cc3f0b193127b5a1fef779b3a9561e2553"
+    },
+    "wanfa-city-header.png": {
+      "bytes": 1997314,
+      "sha256": "211dabfae9f08e03148bbb1b58d8f5e81c21ea38f666603853f4e5dfecc89b29",
+      "gitBlob": "a8a530e2f5f165459951d27173c73675b29a648a"
+    },
+    "wanfa-yan-portrait.png": {
+      "bytes": 3160183,
+      "sha256": "bd78fac3270222d77241da959f5359d1f2a19da098d1305b40dfc42906a1e29a",
+      "gitBlob": "9184c3d81a33dbbd4d4a5052742cb645cdbd688f"
+    }
+  },
+  "description": "百工提供一至六阶傀儡实时估价、正式报价余额核验及七八阶专项案卷。"
+}

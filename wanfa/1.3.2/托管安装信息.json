@@ -1,0 +1,13 @@
+{
+  "version": "1.3.2",
+  "repository": "blossnine-png/-",
+  "releasePath": "wanfa/1.3.2",
+  "runtimeCommit": "61b81d1432b428f8560cc7abe044efdb4103e72d",
+  "urls": [
+    "https://cdn.jsdelivr.net/gh/blossnine-png/-@61b81d1/wanfa/1.3.2/wanfa.js",
+    "https://gcore.jsdelivr.net/gh/blossnine-png/-@61b81d1432b428f8560cc7abe044efdb4103e72d/wanfa/1.3.2/wanfa.js",
+    "https://raw.githubusercontent.com/blossnine-png/-/61b81d1432b428f8560cc7abe044efdb4103e72d/wanfa/1.3.2/wanfa.js"
+  ],
+  "sha256": "02e6fac8731d0f128db7367cb2d146233fa0f65131d3db6f6c6b46ef89b3124d",
+  "scriptId": "5de63e92-110d-40df-836e-78be5c613100"
+}
